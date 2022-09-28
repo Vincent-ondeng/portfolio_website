@@ -6,5 +6,8 @@ box-sizing: border-box;
 }
 .hero{
 height: 100vh;
-background-image: url(
+width: 100%;
+background-image: https://www.google.com/url?sa=i&url=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2Fportfolio-background&psig=AOvVaw2BD9aON5laVn2Exe3JuslX&ust=1664434300091000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCIjmupTztvoCFQAAAAAdAAAAABAE;
+background-size: cover;
+background-position: center;
 }
